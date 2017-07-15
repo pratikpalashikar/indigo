@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post"
-date:   7-13-2017
+date:   2017-07-13
 categories: Technologies
 ---
 

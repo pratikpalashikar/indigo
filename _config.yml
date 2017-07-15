@@ -99,5 +99,7 @@ gems:
   - jekyll-feed
   - jemoji
 
+exclude: [vendor]
+
 jekyll-mentions:
     base_url: https://github.com
