@@ -18,30 +18,31 @@ description: React general overview
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-## About Me:
+## About Me	:
 
-   I am computer science master student :bowtie: . Did'nt even had the personal computer till the age of 20, but that didn't stopped me from learning new things. Currently I am in constant hunt of new new opportunities that will take me step forward. Currently working as Software developer at Vantage Labs, PA, USA.
+   Software Programmer (MS in Computer Science) :bowtie: . Did'nt even had the personal computer till the age of 20, but that didn't stopped me from learning new things. Currently I am in constant hunt of new new opportunities that will take me step forward :bicyclist:.
 
-Here are few links that will tell you about my past, current and future:
+Here are few links that will tell you about my past, current and future :necktie: :
 - [Software Developer](http://pratikpalashikar.github.io/)
 - [Github Projects](https://github.com/pratikpalashikar)
 - [Linked In](https://www.linkedin.com/in/pratikpalashikar/)
 - [Twitter](https://twitter.com/pratikpalashika)
 
 
-## Summary:
+## Summary	:
 
-   I will discuss few things in this blog to get you started. First thing to keep in mind is that there are no shortcuts, and no one is born talented. You have to practice a lot to get the hang of programming and understand concepts related to the data structure and algorithm.
-       From computer science perspective you should focus more on Data Structure, Algorithms and start working on atleast one of the programming language. Start learning the basics regarding the data structure, which data structure will help you to speed your program. Start learning algorithms,  which algorithm is efficient in terms of time complexity. Learn about how to determine the Big (O) time complexities of the program.
+   I will discuss few things in this blog to get you started. First thing to keep in mind is that there are no shortcuts. You have to practice a lot to get the hang of programming and understand concepts related to the data structure and algorithm.
+   
+   From computer science perspective you should focus more on Data Structure, Algorithms and start working on atleast one of the programming language. Start learning the basics regarding the data structure, which data structure will help you to speed your program. Start learning algorithms,  which algorithm is efficient in terms of time complexity. Learn about how to determine the Big (O) time complexities of the program.
 
 
 ###  Chapter 1: Try to keep it simple : 
   	
-   Learn only one programming language completely. Once you understand how the programming concepts works its easy to use other language according to your need. You may learn Java, Ruby, Python, Scala, Javascript whichever you find it useful. To keep things simple I would recommed start with Java grasp the programming concepts quickly and move on to some coding problems. Doing so will increase your confidence over the language.
+   Learn only one programming language completely. Once you understand how the programming concepts works, its easy to grasp other programming languages according to your need. You may learn Java, Ruby, Python, Scala, Javascript whichever you find it useful. To keep things simple I would recommend start with Java grasp the programming concepts quickly and move on to some coding problems. coding will help you increase your confidence over the language.
     
-   Once you get the grasp of the concept, try to implement concept and verify the concept. Try this start coding on the notepad without any IDE that helps to understand the programming language at micro level and helps build your confidence. Most of the big companies out there try to test your knowledge on the whiteboard, so then better start working on notepad.
+   Once you get the grasp of the concept, try to implement concept and verify the concept. Try this start coding on the notepad without any IDE that helps to understand the programming language at micro level and helps build your confidence. Most of the big companies in market try to test your knowledge on the whiteboard, so then better start working on notepad from day 1 itself.
     	
-   Dont try to learn many stuff at once, if you choose Java or Javascript go with any of it first. All the programming languages are based on the same underlying concepts but in todays world everyone is coming up with their own name for the same concepts. So don't overthink much start learning any of the technology you like and start coding.
+   Dont try to learn many stuff at once, if you choose Java or Javascript go with any of it first. All the programming languages are based on the same underlying concepts/principles but in todays world, everyone is coming up with their own name for the same concepts. So don't overthink much, start learning any of the technology you like and start coding.
     	
    [Take away]() : Start learning one language. Grap the concepts. Practice online coding.
   	
@@ -52,7 +53,7 @@ Here are few links that will tell you about my past, current and future:
   	
    [Take away]() : Focus on what you are doing
   	
-###   Chapter 3 : what to learn :
+###   Chapter 3 : What to learn :
   	
   I would recommend you start with basics :
   	
@@ -80,9 +81,9 @@ Here are few links that will tell you about my past, current and future:
     *   Big (O)  time and space complexity (benchmark for your code quality)
   		
   		
-  Start learning about the data structure, they play a very important role when you are developing a piece of software. They determine the time and space complexity of your program. Think it this way you wrote a code to sort the numbers, you dont want to let it keep running for ages right, you want it to be quick within fraction of seconds for large datasets to make decision you first should have the knowledge of all the data structure and the algorithm used to accomplish different task.
+  Start learning about the data structure, they play a very important role when you are developing a piece of software. They determine the time and space complexity of your program. Think it this way you wrote a code to sort the numbers, you dont want to let it keep running for ages, right? you want it to be execute quickly, within fraction of seconds for large datasets. To make this decision you should have the knowledge of all the data structure and the algorithm used to reduce the space and the time complexity based on the programming functionality.
   
-  Dont worry learning this things takes time, you will get it by practicing. Start working on learning these concepts. One thing will be start learning algorithms and data structure from [Cracking the coding interview](http://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell, it will get you started with basics and will provide a way to get started with algorithm. If you are college student or working professional. I will dont use heavy mathematical books to start learning algorithms you will get diverted. Better start with building basic blocks and then move upward. You will be able to tell the space and time complexity of the programs using this book. You will get the strong hold on data structure and algorithm if you follow it properly.
+  Dont worry learning these things takes time, you will get it by practicing. Start working on learning basic concepts. One thing I will suggest, will be start learning algorithms and data structure from [Cracking the coding interview](http://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell, it will get you started with basics and will provide a way to get started with algorithm. If you are college student or working professional. I will say dont use heavy mathematical books to start learning algorithms you will get diverted, its like you dont need the "Master theorem" everytime to determine the perfecct complexity of program a fuzzy guess is fine. Better start with building basic blocks and then move upward. You will be able to tell the space and time complexity of the programs using this book. You will get the strong hold on data structure and algorithm if you follow it properly.
   		
   * Keep this handy :
     [Big O cheat sheet](http://bigocheatsheet.com/)
@@ -91,10 +92,10 @@ Here are few links that will tell you about my past, current and future:
     
 
 
-###   Chapter 4: Pratice a lot
+###   Chapter 4: Pratice a lot	:
     
     
-   Start practicing the algorithm problems, there are many website which will provide with variety of problem statement and will tell you where you stand with respect to other algortihm spacec and time complexity.
+   Start practicing the algorithm problems, there are many website which will provide with variety of problem statement and will tell you where you stand with respect to other algortihms space and time complexity.
 		
    -    Here are some the best website to start coding :
 		

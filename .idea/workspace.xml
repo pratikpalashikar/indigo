@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3f72840-28c6-413b-9363-ee317d4fd710" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-07-23-Stop-Thinking-Start-Programming.md" afterPath="$PROJECT_DIR$/_posts/2017-07-23-Stop-Thinking-Start-Programming.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -39,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-23-Stop-Thinking-Start-Programming.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="2023">
-                <caret line="89" column="90" lean-forward="false" selection-start-line="89" selection-start-column="90" selection-end-line="89" selection-end-column="90" />
+              <first_editor relative-caret-position="-192">
+                <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -299,12 +298,12 @@
       <workItem from="1499994556399" duration="1368000" />
       <workItem from="1500133120863" duration="22261000" />
       <workItem from="1501116670135" duration="1557000" />
-      <workItem from="1501298660179" duration="4426000" />
+      <workItem from="1501298660179" duration="5059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30637000" />
+    <option name="totallyTimeSpent" value="31270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,7 +316,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -712,8 +710,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-23-Stop-Thinking-Start-Programming.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="2023">
-            <caret line="89" column="90" lean-forward="false" selection-start-line="89" selection-start-column="90" selection-end-line="89" selection-end-column="90" />
+          <first_editor relative-caret-position="-192">
+            <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
