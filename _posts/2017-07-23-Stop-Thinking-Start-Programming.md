@@ -40,16 +40,16 @@ Here are few links that will tell you about my past, present and future :necktie
   	
    Learn only one programming language completely. Once you understand how the programming concepts work, it's easy to grasp other programming languages according to your need. You may learn Java, Ruby, Python, Scala, Javascript whichever you find it useful. To keep things simple, I would recommend starting with Java, grasp the programming concepts quickly and move on to some coding problems. coding will help you increase your confidence over the language.
     
-   Once you get the grasp of the concept, try to implement concept and verify the concept. Try this start coding on the notepad without any IDE that helps to understand the programming language at the micro level and helps build your confidence. Most of the big companies in the market try to test your knowledge on the whiteboard, so then better start working on a notepad from day 1 itself.
+   Once you get the grasp of the concept, try to implement concept and verify the concept. Start coding on the notepad without any IDE that helps to understand the programming language at the micro level and will help to boost your confidence. Most of the big companies in the market try to test your knowledge on the whiteboard, so then better start working on a notepad from day 1 itself.
     	
    Don't try to learn much stuff at once, if you choose Java or Javascript go with any of it first. All the programming languages are based on the same underlying concepts/principles but in today's world, everyone is coming up with their own name for the same concepts. So don't overthink much, start learning any of the technology you like and start coding.
     	
-   [Take away](): Start learning one language. Grap the concepts. Practice online coding.
+   [Take away](): Start learning one language. Grasp the concepts. Practice online coding.
   	
   	  	
 ###   Chapter 2: Believe in yourself :
   	
-   It looks cool to be a developer because it is represented to you that way. But when you start to get your hands dirty you understand its seriousness. It's the idea which you are developing makes coding interesting and keep pushing you forward. These means don't bother about how hard the programming language is to learn, keep practising one coding question in a day. There are many sites which provide the online coding challenge in different areas. Hackerrank, Leetcode, Topcoder are the best ones you can try it yourself. Many people will tell you about different programming languages in the market, don't get distracted at all based on the same set of principles with some tweaks. So focus on what you are learning, it will take you to realize that what you are doing is great.
+   It looks cool to be a developer. But when you start to get your hands dirty you understand its seriousness. It's the idea which you are developing makes coding interesting and keep pushing you forward. Never bother about how hard the programming language is to learn, keep practising one coding question in a day. There are many sites which provide the online coding challenge in different areas. Hackerrank, Leetcode, Topcoder are the best ones you can try it yourself. Many people will tell you about different programming languages in the market, don't get distracted at all, many of the programming languages are based on the same set of principles with some tweaks. So focus on what you are learning, it will take you to realize that "what you are doing is great".
   	
    [Take away](): Focus on what you are doing
   	
