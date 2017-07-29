@@ -20,7 +20,7 @@ description: React general overview
 
 ## About Me:
 
-I am computer science master student. Did'nt even had the personal computer till the age of 20, but that didnt stopped me from learning new things. Currently I am in constant hunt of new new opportunities that will take me step forward. Currently working as Software developer at Vantage Labs, PA, USA.
+   I am computer science master student :bowtie: . Did'nt even had the personal computer till the age of 20, but that didn't stopped me from learning new things. Currently I am in constant hunt of new new opportunities that will take me step forward. Currently working as Software developer at Vantage Labs, PA, USA.
 
 Here are few links that will tell you about my past, current and future:
 - [Software Developer](http://pratikpalashikar.github.io/)
@@ -31,32 +31,89 @@ Here are few links that will tell you about my past, current and future:
 
 ## Summary:
 
-I will discuss few things in this blog to get you started. First thing to keep in mind is that there are no shortcuts, and no one is born talented. You have to practice a lot to get the hang of programming and understand concepts related to the data structure and algorithm. 
-
+   I will discuss few things in this blog to get you started. First thing to keep in mind is that there are no shortcuts, and no one is born talented. You have to practice a lot to get the hang of programming and understand concepts related to the data structure and algorithm.
+       From computer science perspective you should focus more on Data Structure, Algorithms and start working on atleast one of the programming language. Start learning the basics regarding the data structure, which data structure will help you to speed your program. Start learning algorithms,  which algorithm is efficient in terms of time complexity. Learn about how to determine the Big (O) time complexities of the program.
 
 
 ###  Chapter 1: Try to keep it simple : 
   	
-   Learn only one programming language completely. Once you understand how the programming concepts works its easy to use other language according to your need. You don't waste your time thinking about programming language. You may learn Java, Ruby, Python, Scala, Javascript whichever you find it useful. To keep things simple I would recommed start with Java grasp the programming concepts quickly and move on to some coding problems. Doing so will increase your confidence over the language and help you gain the practical coding experience.
+   Learn only one programming language completely. Once you understand how the programming concepts works its easy to use other language according to your need. You may learn Java, Ruby, Python, Scala, Javascript whichever you find it useful. To keep things simple I would recommed start with Java grasp the programming concepts quickly and move on to some coding problems. Doing so will increase your confidence over the language.
+    
+   Once you get the grasp of the concept, try to implement concept and verify the concept. Try this start coding on the notepad without any IDE that helps to understand the programming language at micro level and helps build your confidence. Most of the big companies out there try to test your knowledge on the whiteboard, so then better start working on notepad.
+    	
+   Dont try to learn many stuff at once, if you choose Java or Javascript go with any of it first. All the programming languages are based on the same underlying concepts but in todays world everyone is coming up with their own name for the same concepts. So don't overthink much start learning any of the technology you like and start coding.
+    	
+   [Take away]() : Start learning one language. Grap the concepts. Practice online coding.
   	
-   Always remember it is not at all diffcult to learn the programming language. Think it this way, you are doing automation of things that would otherwise you will not be able to do manually or you are bored of doing it manually. Always try to think how you can automate the things with higher performance. This thinking will let you have higher level idea then you split it with objects and methods and start coding for it.
-  	
-  Take away : Start learning one language. Grap the concepts. Practice online coding.
-  	
+  	  	
 ###   Chapter 2 : Believe in yourself :
   	
-  It looks cool to be developer because it is represented to you that way. But when you start to get your hands dirty you understand its seriousness. Its the idea which you are developing makes coding interesting and keep pushing you forward. This means dont bother about how hard the programming language is to learn, keep practicing one coding question in day. There are many sites which provides the online coding challenge in different areas. Hackerrank, Leetcode, Topcoder are the best ones you can try it yourself. Many people will tell you about different programming languages in the market, dont get distracted it all based on the same set of principles with some tweaks. So focus on what you are learning, it will take you to realize that what you are doing is great.
+   It looks cool to be developer because it is represented to you that way. But when you start to get your hands dirty you understand its seriousness. Its the idea which you are developing makes coding interesting and keep pushing you forward. This means dont bother about how hard the programming language is to learn, keep practicing one coding question in day. There are many sites which provides the online coding challenge in different areas. Hackerrank, Leetcode, Topcoder are the best ones you can try it yourself. Many people will tell you about different programming languages in the market, dont get distracted it all based on the same set of principles with some tweaks. So focus on what you are learning, it will take you to realize that what you are doing is great.
   	
-  Take away : Focus on what you are doing
+   [Take away]() : Focus on what you are doing
   	
 ###   Chapter 3 : what to learn :
   	
   I would recommend you start with basics :
   	
+  * Data structure & Algorithms :
+       * HashMap
+       * Vectors/Arrays
+       * Linked List
+       * Stacks
+       * Queues
+       * PriorityQueue
+       * HashTable
+       * Trees
+       * Tries 
+       
+  * Algorithms :
+    *   Breadth First Search
+    *   Depth First Search
+    *   Binary Search
+    *   Merge Sort
+    *   Quick Sort
+  		
+  * Concepts :
+    *   Recursion
+    *   Dynamic Programming (very important concept)
+    *   Big (O)  time and space complexity (benchmark for your code quality)
+  		
+  		
+  Start learning about the data structure, they play a very important role when you are developing a piece of software. They determine the time and space complexity of your program. Think it this way you wrote a code to sort the numbers, you dont want to let it keep running for ages right, you want it to be quick within fraction of seconds for large datasets to make decision you first should have the knowledge of all the data structure and the algorithm used to accomplish different task.
+  
+  Dont worry learning this things takes time, you will get it by practicing. Start working on learning these concepts. One thing will be start learning algorithms and data structure from [Cracking the coding interview](http://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell, it will get you started with basics and will provide a way to get started with algorithm. If you are college student or working professional. I will dont use heavy mathematical books to start learning algorithms you will get diverted. Better start with building basic blocks and then move upward. You will be able to tell the space and time complexity of the programs using this book. You will get the strong hold on data structure and algorithm if you follow it properly.
+  		
+  * Keep this handy :
+    [Big O cheat sheet](http://bigocheatsheet.com/)
+        
+  Note: Come up with brute force approach to solve problem quickly and try to optimize it. 	
     
 
 
+###   Chapter 4: Pratice a lot
+    
+    
+   Start practicing the algorithm problems, there are many website which will provide with variety of problem statement and will tell you where you stand with respect to other algortihm spacec and time complexity.
+		
+   -    Here are some the best website to start coding :
+		
+	    -   [Leetcode](https://leetcode.com/problemset/algorithms/)
+		-   [Hackerrank](https://www.hackerrank.com/)
+		-   [Topcoder](https://www.topcoder.com/)
+		-   [GeeksForGeeks](http://www.geeksforgeeks.org/)
+		
+   Don't rush, start with the basic problems to get hang of it. Get the confidence and start moving forward. Many of these sites also host online programming challenge they are the great things to try, you will feel the time pressure to get it done in specific time.
+		
+   There are some online resources (videos, blogs) that provide with excellent solution for the coding problem. I will prefer some of the channel for you to get started.
 
+   *    [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
+   *    [Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ)
+   *    [Vivekanand Khyade - Algorithm Every Day](https://www.youtube.com/user/vivekanandkhyade/featured)
+		
+		
+
+## If you like the blog please follow me on github, Linkedin, twitter at the linkes mentioned above.
 
 
 
