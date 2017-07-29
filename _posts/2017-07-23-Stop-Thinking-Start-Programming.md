@@ -88,7 +88,7 @@ Here are few links that will tell you about my past, current and future :necktie
   * Keep this handy :
     [Big O cheat sheet](http://bigocheatsheet.com/)
         
-  Note: Come up with brute force approach to solve problem quickly and try to optimize it. 	
+  [Take away]()	: Come up with brute force approach to solve problem quickly and try to optimize it. 	
     
 
 
