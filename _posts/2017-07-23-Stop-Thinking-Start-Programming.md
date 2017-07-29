@@ -20,9 +20,9 @@ description: Programming guidance
 
 ## About Me	:
 
-   Software Programmer (MS in Computer Science) :bowtie: . Didn't even had the personal computer till the age of 20, but that didn't stopped me from learning new things. Currently I am in constant hunt of new new opportunities that will take me step forward :bicyclist:.
+   Software Programmer (MS in Computer Science) :bowtie: . Didn't ever had a personal computer till the age of 20, but that didn't stopped me from learning new things. Currently I am in constant hunt of new opportunities that will take me step forward :bicyclist:.
 
-Here are few links that will tell you about my past, current and future :necktie: :
+Here are few links that will tell you about my past, present and future :necktie: :
 - [Software Developer](http://pratikpalashikar.github.io/)
 - [Github Projects](https://github.com/pratikpalashikar)
 - [Linked In](https://www.linkedin.com/in/pratikpalashikar/)
