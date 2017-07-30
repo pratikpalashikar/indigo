@@ -49,7 +49,7 @@ Here are few links that will tell you about my past, present and future :necktie
   	  	
 ###   Chapter 2: Believe in yourself :
   	
-   It looks cool to be a developer. But when you start to get your hands dirty you understand its seriousness. It's the idea which you are developing makes coding interesting and keep pushing you forward. Never bother about how hard the programming language is to learn, keep practising one coding question in a day. There are many sites which provide the online coding challenge in different areas. Hackerrank, Leetcode, Topcoder are the best ones you can try it yourself. Many people will tell you about different programming languages in the market, don't get distracted at all, many of the programming languages are based on the same set of principles with some tweaks. So focus on what you are learning, it will take you to realize that "what you are doing is great".
+   Never bother about how difficult you find the programming language to learn, keep practising one coding question in a day. There are many sites which provide the online coding challenge in different areas. Hackerrank, Leetcode, Topcoder are the best ones you can try it yourself. Many people will tell you about different programming languages in the market, don't get distracted at all, many of the programming languages are based on the same set of principles with some tweaks. So focus on what you are learning, it will take you to realize that "what you are doing is great".
   	
    [Take away](): Focus on what you are doing
   	
