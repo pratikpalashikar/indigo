@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3f72840-28c6-413b-9363-ee317d4fd710" name="Default" comment="changing the name of the blog">
+    <list default="true" id="a3f72840-28c6-413b-9363-ee317d4fd710" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-01-19-HackBot.md" afterPath="$PROJECT_DIR$/_posts/2018-01-19-HackBot.md" />
     </list>
@@ -62,10 +62,10 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-19-HackBot.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="17" column="171" lean-forward="true" selection-start-line="17" selection-start-column="171" selection-end-line="17" selection-end-column="171" />
+              <first_editor relative-caret-position="746">
+                <caret line="115" column="88" lean-forward="false" selection-start-line="115" selection-start-column="88" selection-end-line="115" selection-end-column="88" />
                 <folding>
-                  <marker date="1516769062848" expanded="true" signature="0:2540" ph="..." />
+                  <marker date="1516770482593" expanded="true" signature="0:2777" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -343,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1516767805480</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="completing the blog">
+      <created>1516769276189</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1516769276189</updated>
+    </task>
+    <task id="LOCAL-00011" summary="completing the blog">
+      <created>1516769959377</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1516769959377</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -456,7 +470,8 @@
     <MESSAGE value="commiting the blog content" />
     <MESSAGE value="changing the name of the blog" />
     <MESSAGE value="adding the content." />
-    <option name="LAST_COMMIT_MESSAGE" value="adding the content." />
+    <MESSAGE value="completing the blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="completing the blog" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -796,16 +811,16 @@
         <state relative-caret-position="75">
           <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding>
-            <marker date="1516769062848" expanded="true" signature="0:2540" ph="..." />
+            <marker date="1516770482593" expanded="true" signature="0:2777" ph="..." />
           </folding>
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="17" column="171" lean-forward="true" selection-start-line="17" selection-start-column="171" selection-end-line="17" selection-end-column="171" />
+          <first_editor relative-caret-position="746">
+            <caret line="115" column="88" lean-forward="false" selection-start-line="115" selection-start-column="88" selection-end-line="115" selection-end-column="88" />
             <folding>
-              <marker date="1516769062848" expanded="true" signature="0:2540" ph="..." />
+              <marker date="1516770482593" expanded="true" signature="0:2777" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
